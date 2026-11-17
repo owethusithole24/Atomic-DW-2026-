@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Stage2.Net"
+  DTS:DTSID="{7688A298-8E09-4A3F-B8B4-D7BC4D18AFC8}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=PC-CSIS-G3-G30-;Initial Catalog=Stage2;Integrated Security=True;TrustServerCertificate=True;Application Name=SSIS-{7688A298-8E09-4A3F-B8B4-D7BC4D18AFC8}Stage2.Net;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="AtomicDW"
+  DTS:DTSID="{4EDE8EC2-DD90-46E5-BB1D-3EEA5DF25028}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=PC-CSIS-G3-G30-;Initial Catalog=AtomicDW;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-WWimporters2-{4EDE8EC2-DD90-46E5-BB1D-3EEA5DF25028}PC-CSIS-G3-G30-.AtomicDW;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

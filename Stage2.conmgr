@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Stage2"
+  DTS:DTSID="{DAE77678-12F2-44C7-9083-CB90C552F839}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=PC-CSIS-G3-G30-;Initial Catalog=Stage2;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-WWimporters2-{DAE77678-12F2-44C7-9083-CB90C552F839}PC-CSIS-G3-G30-.Stage2;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

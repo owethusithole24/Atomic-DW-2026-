@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="8/20/2026 11:03:16 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="PC-CSIS-G3-G30-"
+  DTS:CreatorName="PC-CSIS-G3-G30-\S_CSIS-PostGrad"
+  DTS:DTSID="{DD21565C-DEFD-484D-B16A-A82CDF381425}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="17.0.1016.0"
+  DTS:LocaleID="7177"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{FB643BCB-BB3C-4712-BA5A-72EEC0C67112}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
